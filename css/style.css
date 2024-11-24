@@ -1,0 +1,6 @@
+.col-lg-4{
+    transition: all 0.6s;
+}
+.col-lg-4:hover {
+    transform: scale(1.5);
+}
